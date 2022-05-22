@@ -1,4 +1,4 @@
-name: BuildOnly
+name: BuildOnly with autofree
 
 on:
   push:

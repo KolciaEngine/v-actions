@@ -1,4 +1,4 @@
-name: BuildOnly
+name: BuildOnly with skip-unused and prod
 
 on:
   push:

@@ -1,4 +1,4 @@
-name: BuildOnly
+name: BuildOnly with GC
 
 on:
   push:
