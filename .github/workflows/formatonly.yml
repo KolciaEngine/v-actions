@@ -1,4 +1,4 @@
-name: BuildOnly
+name: FormatOnly
 
 on:
   push:
